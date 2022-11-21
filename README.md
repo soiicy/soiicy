@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soiicy
-- 👀 I’m interested in HTML, CSS, JavaSctipt
+- 👀 I’m interested in HTML, CSS, JavaScript
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me in <a href="https://t.me/sooicyy" target="_blank">Telegram<a>
 
 <!---
