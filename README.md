@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @soiicy
-- 👀 I’m interested in HTML, CSS, JavaScript
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me in <a href="https://t.me/sooicyy" target="_blank">Telegram<a>
-
-<!---
-soiicy/soiicy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">👋 Hi, I’m @soiicy</h1>
+<hr/>
+- 👀 I’m interested in *web*
+- 🌱 I’m currently learning *JS*
+- 💞️ I’m looking to collaborate on *frontend projects*
+- 📫 How to reach me on <a href="https://t.me/sooicyy" target="_blank">*Telegram*<a>
