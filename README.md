@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @soiicy</h1>
+<h1 align="center">@soiicy</h1>
 - 👀 I’m interested in *web* <br/>
 - 🌱 I’m currently learning *JS* <br/>
 - 💞️ I’m looking to collaborate on *frontend projects* <br/>
