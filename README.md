@@ -1,8 +1,5 @@
 <h1 align="center">@soiicy</h1>
-- 👀 I’m interested in web <br/>
-- 🌱 I’m currently learning JS <br/>
-- 💞️ I’m looking to collaborate on frontend projects <br/>
-- 📫 How to reach me on <a href="https://t.me/sooicyy" target="_blank">Telegram<a> <br/>
+<a href="https://t.me/sooicyy" target="_blank">Telegram<a> <br/>
 <br/>
 
   
